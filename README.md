@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anees219
-- 👀 GM + Coding
+- 👀 GYM + Coding
 - 🌱 Trying to become Full Stack
 - 📫 How to reach me? just in your heart
 - ⚡ Fun fact: lazy coder
